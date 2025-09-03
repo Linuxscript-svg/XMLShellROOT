@@ -16,6 +16,7 @@
         android:name=".PIO"
         android:allowBackup="true"
         android:usesCleartextTraffic="true"
+         android:allowNativeHeapPointerTagging="false"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
