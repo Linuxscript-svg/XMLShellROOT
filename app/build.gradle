@@ -11,7 +11,7 @@ stringfog {
 }
 
 android {
-    compileSdkVersion 30
+    compileSdkVersion 28
     buildToolsVersion '32.0.0'
 
     defaultConfig {
