@@ -6,7 +6,7 @@ apply plugin: 'stringfog'
 stringfog {
     implementation 'com.github.megatronking.stringfog.xor.StringFogImpl'
     enable true
-    fogPackages = ['com.projectkr.shell']
+    fogPackages = ['com.root.terminal']
     debug false
 }
 
